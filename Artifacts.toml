@@ -1,0 +1,143 @@
+[[MariaDB_Connector_C]]
+arch = "aarch64"
+git-tree-sha1 = "5aca174f66ad093fa7761a37547d058e009c16a5"
+os = "macos"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "6ffd3202f3b0eb74b9482e323b7c7798899abc8fea5f6e5586a5f58bb1fbe6fd"
+    url = "https://github.com/littlelib/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.3.8+0/MariaDB_Connector_C.v3.3.8.aarch64-apple-darwin.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "aarch64"
+git-tree-sha1 = "27354da3136087b58e7fc8cdbd8a7a012d5cbb0c"
+libc = "glibc"
+os = "linux"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "64e711259fe61749e87a47ca9bc58cda593562da261b616e82c4e2c325c66092"
+    url = "https://github.com/littlelib/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.3.8+0/MariaDB_Connector_C.v3.3.8.aarch64-linux-gnu.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "aarch64"
+git-tree-sha1 = "3782677b43c606549bef4731ce8fe87175f1147e"
+libc = "musl"
+os = "linux"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "001f17ce89a594d575744b87fd9affa1353e6f2721c53fbf2491a9aa35d5a827"
+    url = "https://github.com/littlelib/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.3.8+0/MariaDB_Connector_C.v3.3.8.aarch64-linux-musl.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f9bee432866164fb589c12e261b75003f80971d7"
+libc = "glibc"
+os = "linux"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "b2d555e8b59bf0b4e68e5c0454ab3d8c51d62b10670978bd8ce684259aaf0abd"
+    url = "https://github.com/littlelib/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.3.8+0/MariaDB_Connector_C.v3.3.8.armv6l-linux-gnueabihf.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "5c578a50ad93eedb85cceeabf088909d6a667b58"
+libc = "musl"
+os = "linux"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "41371ff2f5015c8120afa907889ecc38b0c234b8cc125be1c3937616005b9af2"
+    url = "https://github.com/littlelib/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.3.8+0/MariaDB_Connector_C.v3.3.8.armv6l-linux-musleabihf.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "262c2b76ed9fbd71a0e9e5833cdf71d8f129ee09"
+libc = "glibc"
+os = "linux"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "3b4ccedba87b23c10d910c14270f498584b622dfa2023b516a18f83f795078c6"
+    url = "https://github.com/littlelib/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.3.8+0/MariaDB_Connector_C.v3.3.8.armv7l-linux-gnueabihf.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c9c6fbf0adf548711e89d035be2b1adbc0e537f6"
+libc = "musl"
+os = "linux"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "45439003598bff71f8362cf66f8a638eac903c6eb2d5aea88aa4dc7438e039fd"
+    url = "https://github.com/littlelib/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.3.8+0/MariaDB_Connector_C.v3.3.8.armv7l-linux-musleabihf.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "i686"
+git-tree-sha1 = "af3c6baae02840911059abcfd1820f06d9d729c9"
+libc = "glibc"
+os = "linux"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "95e9ef693f2bf8a6bc5b585f3794c01f3bf736e2ecdc6be62b0eba419b33791e"
+    url = "https://github.com/littlelib/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.3.8+0/MariaDB_Connector_C.v3.3.8.i686-linux-gnu.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "i686"
+git-tree-sha1 = "086d843a38923514ca151215d55ac8cbfe2adb91"
+libc = "musl"
+os = "linux"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "9fbce0193476ed004d11152d7a4b543766c6e93ad6ce3515834dadb56e666cef"
+    url = "https://github.com/littlelib/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.3.8+0/MariaDB_Connector_C.v3.3.8.i686-linux-musl.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "i686"
+git-tree-sha1 = "5a9df039eaef88ec022c985a6b462859763ff12b"
+os = "windows"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "a4bd37bc15e356ce0decea019a4f324b58b2f103641d2eb27854ca99f6ef1993"
+    url = "https://github.com/littlelib/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.3.8+0/MariaDB_Connector_C.v3.3.8.i686-w64-mingw32.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "powerpc64le"
+git-tree-sha1 = "593f55203bdb2db2a69a2b4e4f998190bb8d589f"
+libc = "glibc"
+os = "linux"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "dea3676a6722698e44834981fa9f12c964828edc04f30fbd7d363e09ece57477"
+    url = "https://github.com/littlelib/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.3.8+0/MariaDB_Connector_C.v3.3.8.powerpc64le-linux-gnu.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "x86_64"
+git-tree-sha1 = "54ec423b619637923706b22f268fe5a7792220d2"
+os = "macos"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "775ea5d09e071a9f3274ed8bb7da45ff5eeb176d74d3871a857bef2eee1b3626"
+    url = "https://github.com/littlelib/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.3.8+0/MariaDB_Connector_C.v3.3.8.x86_64-apple-darwin.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "x86_64"
+git-tree-sha1 = "4e651e1062717859025c96f57361f0c5fd9865b1"
+libc = "glibc"
+os = "linux"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "733f29b019396dc6af7f4300a3585c9fbafdbeecf4e650db9142eaaec366e894"
+    url = "https://github.com/littlelib/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.3.8+0/MariaDB_Connector_C.v3.3.8.x86_64-linux-gnu.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "x86_64"
+git-tree-sha1 = "edf407a947786f647270c1237c737155ef29bc23"
+libc = "musl"
+os = "linux"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "68eaa910b4b4d7e7428f2b50e04f8576d9edd78a2687f9343418ea3fb935cece"
+    url = "https://github.com/littlelib/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.3.8+0/MariaDB_Connector_C.v3.3.8.x86_64-linux-musl.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "x86_64"
+git-tree-sha1 = "46c8b13a0c0cb510b3b73e6ac683b2335227e779"
+os = "freebsd"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "7f8128fd8cb3248a4d2479356317470139b1317bb7f6ed6c796bf8eb5eb291af"
+    url = "https://github.com/littlelib/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.3.8+0/MariaDB_Connector_C.v3.3.8.x86_64-unknown-freebsd.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "x86_64"
+git-tree-sha1 = "b616c33e4079fc51a734e02ee48f36c1692f3180"
+os = "windows"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "c5415acf859d939c6a34ea655bc7631f3f8cad70ba0977d5778a73547d139706"
+    url = "https://github.com/littlelib/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.3.8+0/MariaDB_Connector_C.v3.3.8.x86_64-w64-mingw32.tar.gz"
